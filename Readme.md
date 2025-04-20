@@ -115,8 +115,7 @@ Use descriptive commit messages like:
 git clone https://github.com/your-username/JavaThreadsDemo.git
 cd JavaThreadsDemo
 
-
-
+---
 
 ## **Output**
 
@@ -131,17 +130,11 @@ cd JavaThreadsDemo
 [CounterThread] Count: 5
 [Main] All threads have finished.
 
-
-
-
+---
 Contributing
 🔹 Fork the repository
 🔹 Create a new branch: git checkout -b feature/thread-optimization
 🔹 Commit your changes: git commit -m "Optimized thread resource sharing"
 🔹 Push to your branch: git push origin feature/thread-optimization
 🔹 Open a Pull Request
-
-
----
-
 
